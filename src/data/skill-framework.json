@@ -1,0 +1,88 @@
+{
+  "axes": [
+    {
+      "id": "strategy",
+      "name": "戦略立案",
+      "description": "事業戦略の策定、市場分析、ビジネスモデル設計の能力",
+      "levels": [
+        { "level": 1, "label": "基礎理解", "description": "基本的なフレームワークを知っている" },
+        { "level": 2, "label": "実践経験", "description": "上司の指導の下で戦略立案に参加した経験がある" },
+        { "level": 3, "label": "自走可能", "description": "自ら戦略を立案し、チームに共有できる" },
+        { "level": 4, "label": "リード", "description": "部門レベルの戦略を主導できる" },
+        { "level": 5, "label": "エキスパート", "description": "全社戦略に影響を与えるレベル" }
+      ]
+    },
+    {
+      "id": "digital_marketing",
+      "name": "デジタルマーケティング",
+      "description": "SEO/SEM、SNS運用、MA、広告運用、GA分析などのデジタル領域のマーケティング能力",
+      "levels": [
+        { "level": 1, "label": "基礎理解", "description": "デジタルマーケティングの基本概念を理解している" },
+        { "level": 2, "label": "実践経験", "description": "特定のデジタルチャネルでの施策実行経験がある" },
+        { "level": 3, "label": "自走可能", "description": "複数のデジタルチャネルを横断した施策を設計・実行できる" },
+        { "level": 4, "label": "リード", "description": "デジタルマーケティング戦略全体を設計・推進できる" },
+        { "level": 5, "label": "エキスパート", "description": "データドリブンで市場を創造するレベルのデジタルマーケティングを実行できる" }
+      ]
+    },
+    {
+      "id": "offline_marketing",
+      "name": "オフラインマーケティング",
+      "description": "イベント企画、PR・広報、ブランド戦略、チャネル開拓、顧客リレーションの能力",
+      "levels": [
+        { "level": 1, "label": "基礎理解", "description": "オフラインマーケティングの基本概念を理解している" },
+        { "level": 2, "label": "実践経験", "description": "イベント企画やPR施策の実行経験がある" },
+        { "level": 3, "label": "自走可能", "description": "ブランド戦略の立案やチャネル開拓を主導できる" },
+        { "level": 4, "label": "リード", "description": "オフラインマーケティング戦略全体を設計・推進できる" },
+        { "level": 5, "label": "エキスパート", "description": "業界を超えたブランド構築と市場創造を実行できる" }
+      ]
+    },
+    {
+      "id": "technology",
+      "name": "テクノロジー",
+      "description": "技術理解、システム設計、DX推進の能力",
+      "levels": [
+        { "level": 1, "label": "基礎理解", "description": "ITツールを業務で活用できる" },
+        { "level": 2, "label": "実践経験", "description": "簡単なプログラミングやシステム設定ができる" },
+        { "level": 3, "label": "自走可能", "description": "技術要件の定義やベンダー選定ができる" },
+        { "level": 4, "label": "リード", "description": "技術アーキテクチャの設計・意思決定ができる" },
+        { "level": 5, "label": "エキスパート", "description": "最先端技術を活用した事業変革を主導できる" }
+      ]
+    },
+    {
+      "id": "management",
+      "name": "マネジメント",
+      "description": "プロジェクト管理、チーム運営、組織設計の能力",
+      "levels": [
+        { "level": 1, "label": "基礎理解", "description": "タスク管理の基本ができる" },
+        { "level": 2, "label": "実践経験", "description": "小規模プロジェクトのリードを経験" },
+        { "level": 3, "label": "自走可能", "description": "複数人のチームを管理し、成果を出せる" },
+        { "level": 4, "label": "リード", "description": "部門横断プロジェクトをマネジメントできる" },
+        { "level": 5, "label": "エキスパート", "description": "組織全体の変革マネジメントを主導できる" }
+      ]
+    },
+    {
+      "id": "data",
+      "name": "データ分析",
+      "description": "データ収集・分析・活用、意思決定への反映の能力",
+      "levels": [
+        { "level": 1, "label": "基礎理解", "description": "Excelでの基本的なデータ集計ができる" },
+        { "level": 2, "label": "実践経験", "description": "BIツールを使ったレポート作成ができる" },
+        { "level": 3, "label": "自走可能", "description": "分析設計から施策提案まで一貫して行える" },
+        { "level": 4, "label": "リード", "description": "データドリブン経営の仕組みを構築できる" },
+        { "level": 5, "label": "エキスパート", "description": "高度な統計・AI活用で事業インパクトを創出できる" }
+      ]
+    },
+    {
+      "id": "communication",
+      "name": "コミュニケーション",
+      "description": "プレゼン、交渉、ステークホルダー管理の能力",
+      "levels": [
+        { "level": 1, "label": "基礎理解", "description": "チーム内での報告・連絡・相談ができる" },
+        { "level": 2, "label": "実践経験", "description": "社内プレゼンや顧客対応の経験がある" },
+        { "level": 3, "label": "自走可能", "description": "経営層への提案や外部交渉を主導できる" },
+        { "level": 4, "label": "リード", "description": "組織間の調整・合意形成をリードできる" },
+        { "level": 5, "label": "エキスパート", "description": "業界を超えたネットワーク構築・影響力を発揮できる" }
+      ]
+    }
+  ]
+}
