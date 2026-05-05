@@ -1,0 +1,72 @@
+# =========================
+# OS Files (OSが自動生成する隠しファイル)
+# =========================
+.DS_Store
+.DS_Store?
+._*
+.AppleDouble
+.LSOverride
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# =========================
+# Editor & IDE (エディタや開発環境の設定)
+# =========================
+.vscode/
+.idea/
+*.suo
+*.sln
+*.sw?
+.DS_Store
+
+# =========================
+# Environment Variables (機密情報・環境変数)
+# =========================
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.pem
+
+# =========================
+# Web Development / Node.js (Web開発系)
+# =========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+dist/
+build/
+.next/
+out/
+
+# =========================
+# Python (スクリプト系)
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env/
+
+# =========================
+# Logs & Databases (ログ・ローカルDB)
+# =========================
+*.log
+*.sqlite
+*.sqlite3
+
+# =========================
+# Media & Large Files (必要に応じてコメントアウトを外す)
+# =========================
+# *.wav
+# *.mp3
+# *.mp4
+# *.flp
+# *.zip
+# *.tar.gz
